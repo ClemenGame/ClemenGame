@@ -1,11 +1,11 @@
 # Hi, I'm Nathanael Clementino Rawis 👋
 
-Final-year **BSc (Hons) Artificial Intelligence** student at **Coventry University**, predicted to graduate with **First Class Honours**.
+**BSc (Hons) Artificial Intelligence** graduate from **Coventry University** with **First Class Honours**.
 I am interested in **Machine Learning, Natural Language Processing, Data Science, and Software Engineering**, with a focus on building practical systems using Python and real-world datasets.
 
 ## About Me
 
-*  Final-year Artificial Intelligence student at Coventry University
+*  Artificial Intelligence Graduate at Coventry University
 *  Interested in Machine Learning, NLP, Data Science, and AI applications
 *  Built a phishing email detection system using NLP and machine learning
 *  Experienced with classification models, TF-IDF, model evaluation, and data analysis
