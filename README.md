@@ -5,13 +5,13 @@ I am interested in **Machine Learning, Natural Language Processing, Data Science
 
 ## About Me
 
-* 🎓 Final-year Artificial Intelligence student at Coventry University
-* 🧠 Interested in Machine Learning, NLP, Data Science, and AI applications
-* 🛡️ Built a phishing email detection system using NLP and machine learning
-* 📊 Experienced with classification models, TF-IDF, model evaluation, and data analysis
-* 💻 One of the developers of Radical Red Showdown, a live online simulator platform
-* 🌱 Currently improving my Python, ML engineering, and data science skills
-* 📍 Based in Coventry, United Kingdom
+*  Final-year Artificial Intelligence student at Coventry University
+*  Interested in Machine Learning, NLP, Data Science, and AI applications
+*  Built a phishing email detection system using NLP and machine learning
+*  Experienced with classification models, TF-IDF, model evaluation, and data analysis
+*  One of the developers of Radical Red Showdown, a live online simulator platform
+*  Currently improving my Python, ML engineering, and data science skills
+*  Based in Coventry, United Kingdom
 
 ## Featured Projects
 
