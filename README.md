@@ -6,7 +6,7 @@
 
 **First-Class BSc (Hons) Artificial Intelligence graduate from Coventry University.**
 
-I enjoy taking a problem from a dataset or rough idea to a working system — **building it, evaluating it, and figuring out where it breaks**. My interests are in applied AI, natural language processing, data science, and software engineering.
+I enjoy taking a problem from a dataset or rough idea to a working system, **building it, evaluating it, and figuring out where it breaks**. My interests are in applied AI, natural language processing, data science, and software engineering.
 
 [![Portfolio source](https://img.shields.io/badge/🚀_PORTFOLIO-NATH__OS-C5FA52?style=for-the-badge&labelColor=101719)](https://github.com/ClemenGame/portfolio-website)
 
