@@ -204,6 +204,6 @@ I'm interested in collaborating on practical AI projects and discussing junior e
 
 <div align="center">
 
-**Thanks for visiting — keep building.** ⚡
+**Thanks for visiting and keep building.**
 
 </div>
