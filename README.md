@@ -18,19 +18,19 @@ I enjoy taking a problem from a dataset or rough idea to a working system, **bui
 
 ---
 
-## 👨‍💻 Experience & what I'm looking for
+## Experience & what I'm looking for
 
-🎯 **Seeking:** Junior / graduate opportunities in **AI, machine learning, NLP, data science, Python and software engineering** in the UK.
+ **Seeking:** Junior / graduate opportunities in **AI, machine learning, NLP, data science, Python and software engineering** in the UK.
 
-- 🎓 **Education:** BSc (Hons) Artificial Intelligence, **First Class Honours**, Coventry University (2026).
-- 🧠 **Research focus:** Email phishing detection with NLP — compared classical ML approaches and investigated robustness to text perturbations.
-- 🎮 **Community engineering:** Contributed for **3 years** to **Radical Red Showdown**, an online Pokémon battle simulator, working on game systems and community-facing improvements.
-- 🛠️ **Approach:** Practical experimentation, clear evaluation, and making technical decisions understandable.
-- 📍 **Location:** UK; open to relevant opportunities.
+-  **Education:** BSc (Hons) Artificial Intelligence, **First Class Honours**, Coventry University (2026).
+-  **Research focus:** Email phishing detection with NLP — compared classical ML approaches and investigated robustness to text perturbations.
+-  **Community engineering:** Contributed for **3 years** to **Radical Red Showdown**, an online Pokémon battle simulator, working on game systems and community-facing improvements.
+-  **Approach:** Practical experimentation, clear evaluation, and making technical decisions understandable.
+-  **Location:** UK; open to relevant opportunities.
 
 I especially like projects where an impressive metric is only the *start* of the question: **how reliable is it, and what happens on unexpected inputs?**
 
-## 🧰 Tech stack — and how I've used it
+## Tech stack — and how I've used it
 
 Rather than a wall of logos, here's what I've actually worked with.
 
@@ -64,23 +64,23 @@ Rather than a wall of logos, here's what I've actually worked with.
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | WSL / Ubuntu and VS Code workflows for software development and CS50 exercises. |
 | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | Deployment target for my static [NATH_OS portfolio](https://github.com/ClemenGame/portfolio-website). |
 
-## 🔨 What I build
+##  What I build
 
 | Focus | What interests me |
 | --- | --- |
-| 🧠 **Applied machine learning** | Building classifiers and evaluating how well they generalize. |
-| ✉️ **NLP & AI security** | Detecting phishing emails and understanding adversarial input changes. |
-| ⚙️ **Software engineering** | Backend logic, authentication, maintainability, and useful tools. |
-| 🎮 **Community software** | Improving live systems based on feedback from real users. |
-| 🏁 **Data-led experiments** | Exploring domains I enjoy — including [Formula 1](https://github.com/ClemenGame/Formula-1-Podium-Prediction). |
+|  **Applied machine learning** | Building classifiers and evaluating how well they generalize. |
+|  **NLP & AI security** | Detecting phishing emails and understanding adversarial input changes. |
+|  **Software engineering** | Backend logic, authentication, maintainability, and useful tools. |
+|  **Community software** | Improving live systems based on feedback from real users. |
+|  **Data-led experiments** | Exploring domains I enjoy — including [Formula 1](https://github.com/ClemenGame/Formula-1-Podium-Prediction). |
 
-## 🚀 Featured projects
+##  Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✉️ [Phishing Email Detection with NLP](https://github.com/ClemenGame/phishing-email-NLP)
+###  [Phishing Email Detection with NLP](https://github.com/ClemenGame/phishing-email-NLP)
 
 **Problem:** Can conventional NLP classifiers reliably distinguish phishing emails from legitimate messages?
 
@@ -97,7 +97,7 @@ Rather than a wall of logos, here's what I've actually worked with.
 </td>
 <td width="50%" valign="top">
 
-### 🏃 [Human Activity Recognition](https://github.com/ClemenGame/HAR-Activity-Recognition)
+###  [Human Activity Recognition](https://github.com/ClemenGame/HAR-Activity-Recognition)
 
 **Problem:** Can smartphone sensor signals be used to identify physical activities?
 
@@ -116,7 +116,7 @@ Rather than a wall of logos, here's what I've actually worked with.
 <tr>
 <td width="50%" valign="top">
 
-### 🏁 [Formula 1 Podium Prediction](https://github.com/ClemenGame/Formula-1-Podium-Prediction)
+###  [Formula 1 Podium Prediction](https://github.com/ClemenGame/Formula-1-Podium-Prediction)
 
 A data science project exploring race outcomes and the question of which features help predict podium results.
 
@@ -129,7 +129,7 @@ A data science project exploring race outcomes and the question of which feature
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [NATH_OS — Portfolio Website](https://github.com/ClemenGame/portfolio-website)
+###  [NATH_OS — Portfolio Website](https://github.com/ClemenGame/portfolio-website)
 
 An interactive, terminal-inspired personal portfolio with an animated introduction, selected projects, skills and a command-line interface.
 
@@ -144,7 +144,7 @@ An interactive, terminal-inspired personal portfolio with an animated introducti
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Radical Red Showdown
+###  Radical Red Showdown
 
 Contributed to the development and maintenance of an online Pokémon battle simulator across **3 years**.
 
@@ -157,7 +157,7 @@ Worked on community-facing functionality, game logic, formats, and improvements 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Harvard CS50 Assignments](https://github.com/ClemenGame/Harvard-CS50-Assignments)
+###  [Harvard CS50 Assignments](https://github.com/ClemenGame/Harvard-CS50-Assignments)
 
 A collection of exercises and projects from Harvard's CS50 learning track.
 
@@ -171,7 +171,7 @@ The coursework helped strengthen my understanding of algorithms, low-level progr
 </tr>
 </table>
 
-## 🧪 How I approach engineering
+##  How I approach engineering
 
 **1. Start with a real question.** Define what a useful result looks like before choosing a model or framework.
 
@@ -181,7 +181,7 @@ The coursework helped strengthen my understanding of algorithms, low-level progr
 
 **4. Communicate clearly.** A model metric or a working demo only matters when someone can understand what it means — and what it doesn't.
 
-## 📊 GitHub activity
+##  GitHub activity
 
 <div align="center">
 
@@ -193,7 +193,7 @@ The coursework helped strengthen my understanding of algorithms, low-level progr
 
 <sub>These are generated by third-party GitHub README services. They may occasionally be unavailable or delayed.</sub>
 
-## 📫 Let's connect
+##  Let's connect
 
 I'm interested in collaborating on practical AI projects and discussing junior engineering opportunities.
 
